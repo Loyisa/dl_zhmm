@@ -125,7 +125,7 @@ if (isset($_REQUEST['page']) && $_REQUEST['page'] == 'yjqr') {
 	</div><br/><br/><br/>';
 			}
 			?>
-			<p>插件作者：<a href="http://www.tbsign.cn" target="_blank">D丶L</a>&nbsp;&nbsp;\\&nbsp;&nbsp;程序作者：<a href="http://zhizhe8.net" target="_blank">无名智者</a></p>
+			<p>插件原作者：<a href="http://www.tbsign.cn" target="_blank">D丶L</a>&nbsp;&nbsp;由<a href="https://loyisa.cn" target="_blank">Loyisa</a>修改&nbsp;&nbsp;\\&nbsp;&nbsp;程序作者：<a href="http://zhizhe8.net" target="_blank">无名智者</a></p>
 			<div style=" clear:both;"></div>
 			<div class="login-ext"></div>
 			<div class="login-bottom"></div>
