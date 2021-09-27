@@ -17,4 +17,3 @@ function dl_zhmm_navi() {
 
 addAction('navi_10','dl_zhmm_navi');
 addAction('navi_11','dl_zhmm_navi');
-?>
