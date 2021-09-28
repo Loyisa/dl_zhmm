@@ -85,6 +85,7 @@ if (isset($_REQUEST['page']) && $_REQUEST['page'] == 'yjqr') {
 					<div style=" clear:both;"></div>
 					<div class="login-ext"></div>
 					<div class="login-bottom"></div>
+				</form>
 			</div>
 		</div>
 <?php
